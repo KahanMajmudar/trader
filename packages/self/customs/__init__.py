@@ -17,4 +17,4 @@
 #
 # ------------------------------------------------------------------------------
 
-"""Custom packages authored by w1kke."""
+"""Custom packages authored by self."""
