@@ -1,0 +1,14 @@
+name: win_probability_threshold
+author: self
+version: 0.1.0
+type: custom
+description: A simple testing strategy.
+license: Apache-2.0
+aea_version: '>=1.0.0, <2.0.0'
+fingerprint:
+  __init__.py: bafybeiew74te2qc6slo4o5lqime2vslclbymavaai52qdsvh4jxkmps63u
+  win_probability_threshold.py: bafybeifdxzlfkrks4nhwrjcoighj4jjwybucfgx3uy5ilmgfsaeov7ryyq
+fingerprint_ignore_patterns: []
+entry_point: win_probability_threshold.py
+callable: run
+dependencies: {}
